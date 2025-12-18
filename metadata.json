@@ -1,0 +1,5 @@
+{
+  "name": "Bloxd Image Converter",
+  "description": "A tool to convert images into .bloxdschem files for Bloxd.io, featuring automatic resizing and correct chunk ordering.",
+  "requestFramePermissions": []
+}
